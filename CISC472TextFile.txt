@@ -1,4 +1,6 @@
 CISC 472 Text File
 
 
-Hello world, my name is Mareena and I am a 4th year Biomedical Computing student at Queen's University. I enjoy playing volleyball and spending time with my family. I love to travel and see the world. I am very excited to be in CISC 472 and can't wait to work with Slicer 3D!
+Hello world, my name is Mareena and I am a 4th year Biomedical Computing student at Queen's University. 
+I enjoy playing volleyball and spending time with my family. I love to travel and see the world. 
+I am very excited to be in CISC 472 and can't wait to work with Slicer 3D!
